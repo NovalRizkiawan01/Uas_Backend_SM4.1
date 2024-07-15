@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Semen Portland",
+        "deskripsi": "Semen kualitas tinggi untuk konstruksi bangunan",
+        "harga": 50000
+    },
+    {
+        "nama": "Besi Beton",
+        "deskripsi": "Besi kuat untuk struktur beton bertulang",
+        "harga": 70000
+    },
+    {
+        "nama": "Cat Tembok",
+        "deskripsi": "Cat interior dan eksterior dengan ketahanan tinggi",
+        "harga": 40000
+    },
+    {
+        "nama": "Kusen Kayu",
+        "deskripsi": "Kusen kayu berkualitas untuk jendela dan pintu",
+        "harga": 150000
+    },
+    {
+        "nama": "Amplas Halus",
+        "deskripsi": "Amplas halus untuk menyelesaikan permukaan kayu dan cat",
+        "harga": 5000
+    },
+    {
+        "nama": "Palu Tukang",
+        "deskripsi": "Palu dengan kepala logam yang kuat dan nyaman digunakan",
+        "harga": 24000
+    },
+    {
+        "nama": "Paku Besi",
+        "deskripsi": "Paku besi untuk pemasangan bahan konstruksi",
+        "harga": 500
+    }
+]
